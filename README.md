@@ -1,2 +1,2 @@
 # Erlang-codes
-IEEE Summer Project
+IEEE Summer Project "Distributed system Programming with Erlang"
