@@ -1,0 +1,11 @@
+timer:tc(aditya,find_square_multiples,[3,30000]).  
+{0,48}
+timer:tc(aditya,find_square_multiples,[4,30000]).  
+{0,242}
+timer:tc(aditya,find_square_multiples,[5,30000]).  
+{16000,844}
+timer:tc(aditya,find_square_multiples,[6,30000]). 
+{516000,22020}
+timer:tc(aditya,find_square_multiples,[7,300000]).
+{6156000,217070}
+
